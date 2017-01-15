@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+img {
+    height: 100%;
+}
+.index, .pic, .container {
+    float: left;
+    height: 100%;
+}
+.index {
+    width: 200px;
+}
+.toolbar {
+    position: absolute;
+    left: 200px;
+    bottom: 50px;
+}
